@@ -14,6 +14,9 @@
 /log/*.log
 /tmp/*
 
+# Ignore lock files
+*.lock
+
 *.rbc
 *.sassc
 .sass-cache
