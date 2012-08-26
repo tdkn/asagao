@@ -6,6 +6,8 @@
 Chapter1 やり終えた。練習問題解いた。
 + **2012-07-19**
 Chapter2 の p.68 まで読んだ。
++ **2012-08-26**
+Chapter2 の p.78 まで読んだ。
 
 ## Links
 http://www.impressjapan.jp/books/3156
