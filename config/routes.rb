@@ -2,6 +2,9 @@ Asagao::Application.routes.draw do
   root to: "top#index"
 
   get "about" => "top#about", as: "about"
+
+  get "lesson/:action(/:name)" => "lesson"
+
   # get "top/index"
 
   # The priority is based upon order of creation:
